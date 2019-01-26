@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            I was changed
+            Yakso
           </a>
         </header>
       </div>
